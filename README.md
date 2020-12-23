@@ -67,14 +67,22 @@ and High Frequency Trading</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Trade-ML-Papers/blob/master/ml(32).pdf" style="text-decoration:none;">Algorithmic Trading and Machine
 Learning Based on GPU</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Trade-ML-Papers/blob/master/ml(33).pdf" style="text-decoration:none;">Robust and Efficient Data Management for a Distributed Hash Table</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Trade-ML-Papers/blob/master/ml(33).pdf" style="text-decoration:none;">Machine Learning in Intraday Stock Trading</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Trade-ML-Papers/blob/master/ml(34).pdf" style="text-decoration:none;">Enhancing Trading Strategies with Order Book Signals</a></li> 
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Trade-ML-Papers/blob/master/ml(35).pdf" style="text-decoration:none;">A Survey of Deep Learning
 Techniques Applied to Trading</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Trade-ML-Papers/blob/master/ml(36).pdf" style="text-decoration:none;">A Keyword-Set Search System for Peer-to-Peer
-Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Trade-ML-Papers/blob/master/ml(36).pdf" style="text-decoration:none;">A Machine Learning Framework for Stock Selection</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Trade-ML-Papers/blob/master/ml(37).pdf" style="text-decoration:none;">A Machine Learning View on Momentum and
+Reversal Trading</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Trade-ML-Papers/blob/master/ml(38).pdf" style="text-decoration:none;">Evaluating machine learning classification for financial trading: an empirical approach</a></li> 
+   
+  
+  
+  
 
 </ul>
